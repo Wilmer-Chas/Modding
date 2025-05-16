@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTerrain id="AgriaEx1">
+        <BlendTextures index="6" value="IceWorldEx2_1"/>
+        <BlendTextures index="7" value="VolcanoIsle_3"/>
+    </CTerrain>
+    <CTerrain id="IceWorldEx2">
+        <BlendTextures index="3" value="IceWorldEx2_6"/>
+        <BlendTextures index="4" value="IceWorldEx2_8"/>
+        <BlendTextures index="5" value="CharRedCracksEx2"/>
+        <BlendTextures index="6" value="Zerus2"/>
+        <BlendTextures index="7" value="AgriaGrassYellow"/>
+    </CTerrain>
+</Catalog>

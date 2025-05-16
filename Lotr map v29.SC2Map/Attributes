@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Attributes>
+    <Attribute>
+        <Id Value="1"/>
+        <Type Value="Player"/>
+        <Name Value="Attribute001/Name"/>
+        <Availability Value="First"/>
+        <Visibility Value="All"/>
+        <Access Value="Self"/>
+        <Value>
+            <Id Value="1"/>
+            <Name Value="Attribute001/Value001/Name"/>
+            <Description Value="Attribute001/Value001/Desc"/>
+        </Value>
+        <Value>
+            <Id Value="8"/>
+            <Name Value="Attribute001/Value008/Name"/>
+            <Description Value="Attribute001/Value008/Desc"/>
+        </Value>
+        <Value>
+            <Id Value="2"/>
+            <Name Value="Attribute001/Value002/Name"/>
+            <Description Value="Attribute001/Value002/Desc"/>
+        </Value>
+        <Value>
+            <Id Value="3"/>
+            <Name Value="Attribute001/Value003/Name"/>
+            <Description Value="Attribute001/Value003/Desc"/>
+        </Value>
+        <Value>
+            <Id Value="4"/>
+            <Name Value="Attribute001/Value004/Name"/>
+            <Description Value="Attribute001/Value004/Desc"/>
+        </Value>
+        <Value>
+            <Id Value="5"/>
+            <Name Value="Attribute001/Value005/Name"/>
+            <Description Value="Attribute001/Value005/Desc"/>
+        </Value>
+        <Value>
+            <Id Value="6"/>
+            <Name Value="Attribute001/Value006/Name"/>
+            <Description Value="Attribute001/Value006/Desc"/>
+        </Value>
+        <Value>
+            <Id Value="7"/>
+            <Name Value="Attribute001/Value007/Name"/>
+            <Description Value="Attribute001/Value007/Desc"/>
+        </Value>
+        <Value>
+            <Id Value="9"/>
+            <Name Value="Attribute001/Value009/Name"/>
+            <Description Value="Attribute001/Value009/Desc"/>
+        </Value>
+        <Default>
+            <Slot Id="0"/>
+            <Value Id="2"/>
+        </Default>
+        <Default>
+            <Slot Id="1"/>
+            <Value Id="4"/>
+        </Default>
+        <Default>
+            <Slot Id="2"/>
+            <Value Id="3"/>
+        </Default>
+        <Default>
+            <Slot Id="3"/>
+            <Value Id="1"/>
+        </Default>
+        <Default>
+            <Slot Id="4"/>
+            <Value Id="6"/>
+        </Default>
+        <Default>
+            <Slot Id="5"/>
+            <Value Id="5"/>
+        </Default>
+        <Default>
+            <Slot Id="6"/>
+            <Value Id="7"/>
+        </Default>
+        <Default>
+            <Slot Id="7"/>
+            <Value Id="8"/>
+        </Default>
+        <Default>
+            <Slot Id="8"/>
+            <Value Id="9"/>
+        </Default>
+    </Attribute>
+    <DefaultVariants Value="0"/>
+    <Variant>
+        <Id Value="1"/>
+        <CategoryId Value="1"/>
+        <ModeId Value="1"/>
+        <ModeName Value="Variant001/ModeName"/>
+        <ModeDesc Value="Variant001/ModeDesc"/>
+        <MaxTeamSize Value="12"/>
+        <AttributeHidden Namespace="999" Id="3006"/>
+        <AttributeHidden Namespace="999" Id="3003"/>
+        <AttributeHidden Namespace="999" Id="3001"/>
+        <Attribute Namespace="999" Id="1001">
+            <Default>
+                <Slot Id="Global"/>
+                <Value Id="28271"/>
+            </Default>
+        </Attribute>
+        <Attribute Namespace="999" Id="2000">
+            <Default>
+                <Slot Id="Global"/>
+                <Value Id="29746"/>
+            </Default>
+        </Attribute>
+        <Attribute Namespace="999" Id="3000">
+            <Default>
+                <Slot Id="Global"/>
+                <Value Id="1180791666"/>
+                <Locked/>
+            </Default>
+        </Attribute>
+        <Attribute Namespace="999" Id="3015">
+            <Default>
+                <Slot Id="Global"/>
+                <Value Id="48"/>
+                <Locked/>
+            </Default>
+        </Attribute>
+    </Variant>
+</Attributes>

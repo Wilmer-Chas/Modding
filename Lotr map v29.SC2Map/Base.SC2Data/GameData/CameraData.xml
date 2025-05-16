@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CCamera id="Dflt">
+        <ZoomTable index="0">
+            <Param index="Distance" Value="50.000000"/>
+        </ZoomTable>
+        <ZoomTable index="1">
+            <Param index="Distance" Value="45.000000"/>
+            <Param index="Pitch" Value="56.000000"/>
+        </ZoomTable>
+        <ZoomTable index="2">
+            <Param index="Distance" Value="40.000000"/>
+            <Param index="Pitch" Value="56.000000"/>
+        </ZoomTable>
+        <ZoomTable index="3">
+            <Param index="Distance" Value="34.000000"/>
+            <Param index="Pitch" Value="56.000000"/>
+        </ZoomTable>
+        <ZoomTable index="4">
+            <Param index="Distance" Value="30.000000"/>
+            <Param index="Pitch" Value="52.000000"/>
+        </ZoomTable>
+        <ZoomTable>
+            <Param index="Distance" Value="26.000000"/>
+            <Param index="Pitch" Value="48.000000"/>
+        </ZoomTable>
+        <ZoomTable>
+            <Param index="Distance" Value="22.000000"/>
+            <Param index="Pitch" Value="44.000000"/>
+        </ZoomTable>
+        <ZoomTable>
+            <Param index="Distance" Value="18.000000"/>
+            <Param index="Pitch" Value="40.000000"/>
+        </ZoomTable>
+    </CCamera>
+</Catalog>

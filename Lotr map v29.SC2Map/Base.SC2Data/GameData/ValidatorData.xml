@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CValidatorPlayerRequirement id="HasLifeSteal">
+        <Find value="1"/>
+        <Value value="LifeSteal"/>
+    </CValidatorPlayerRequirement>
+    <CValidatorPlayerRequirement id="HaveHotSRoachShield2">
+        <WhichPlayer Value="Caster"/>
+        <Find value="1"/>
+        <Value value="HaveHotSRoachShield"/>
+    </CValidatorPlayerRequirement>
+    <CValidatorPlayerRequirement id="HaveNovaWeaponHellfireShotgun">
+        <Value value=""/>
+    </CValidatorPlayerRequirement>
+    <CValidatorUnitCompareVital id="LifeLTHalf2">
+        <ResultFailed value="TooMuchLife"/>
+        <Compare value="LT"/>
+        <Type value="Fraction"/>
+        <Value value="0.5"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="LifeLTHalf22">
+        <ResultFailed value="TooMuchLife"/>
+        <Compare value="LT"/>
+        <Type value="Fraction"/>
+        <Value value="0.5"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareVital id="LifeLTHalf23">
+        <ResultFailed value="TooMuchLife"/>
+        <Compare value="LT"/>
+        <Type value="Fraction"/>
+        <Value value="0.5"/>
+    </CValidatorUnitCompareVital>
+    <CValidatorUnitCompareDamageTakenTime id="ReaperOutOfCombat">
+        <Value value="5"/>
+    </CValidatorUnitCompareDamageTakenTime>
+    <CValidatorUnitFilters id="TornadoMissileFilters">
+        <Filters value="Visible;Self,Missile,Stasis,Dead,Hidden,Invulnerable"/>
+    </CValidatorUnitFilters>
+    <CValidatorCondition id="nophotoncannonmissle2">
+        <ResultFailed value="CantTargetThatUnit"/>
+        <IfArray Test="photoncannon" Return="photoncannon"/>
+    </CValidatorCondition>
+    <CValidatorUnitType id="photoncannon">
+        <ResultFailed value="EnergySuppressed"/>
+        <Value value="PhotonCannonWeapon"/>
+        <Find value="0"/>
+    </CValidatorUnitType>
+</Catalog>

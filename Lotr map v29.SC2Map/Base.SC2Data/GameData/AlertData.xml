@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CAlert id="AttackTownAlly_Prot">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackTownAlly_Terr">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackTownAlly_Zerg">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackTown_Prot">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackTown_Terr">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackTown_Zerg">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackUnitAlly_Prot">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackUnitAlly_Terr">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackUnitAlly_Zerg">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackUnit_Prot">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackUnit_Terr">
+        <Sound value=""/>
+    </CAlert>
+    <CAlert id="AttackUnit_Zerg">
+        <Sound value=""/>
+    </CAlert>
+</Catalog>

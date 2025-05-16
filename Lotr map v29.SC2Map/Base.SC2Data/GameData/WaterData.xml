@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CWater id="Agria">
+        <State index="0">
+            <Height value="7.550000"/>
+            <Color value="0.098039,0.349020,0.498039,0.300000"/>
+            <UvRate value="-0.000000,-0.001000,0.000000,0.000000"/>
+            <RefractionDistortion value="0.020000"/>
+        </State>
+    </CWater>
+    <CWater id="Albion">
+        <State index="0" Height="8.350000"/>
+    </CWater>
+    <CWater id="BraxisAlpha">
+        <State index="0" Height="9.950000"/>
+    </CWater>
+    <CWater id="Default">
+        <State index="0" Height="8.600000"/>
+    </CWater>
+    <CWater id="ZerusPool">
+        <State index="0" Height="9.950000"/>
+    </CWater>
+    <CWater id="ZhakulDas">
+        <!--        <IsLava value="1"/>
+        <LavaModel value="LavaSilver"/> -->
+        <State index="0" Height="9.350000"/>
+    </CWater>
+</Catalog>

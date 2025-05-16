@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StyleFile>
+    <Style name="Smalltext" font="UI\Fonts\BLQ55.ttf" height="21" vjustify="Top" hjustify="Left" styleflags="HintStyleNormal" textcolor="255,0,0,0" highlightcolor="255,185,185,185" disabledcolor="255,0,0,0" hotkeycolor="255,0,0,0" hyperlinkcolor="255,0,0,0" glowcolor="255,239,149,80" shadowoffset="0" outlinewidth="0"/>
+</StyleFile>

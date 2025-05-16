@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CRequirement id="AIEasterlingsBrutal">
+        <NodeArray index="Show" Link="NotCountUpgradeAIEasterlingsBrutalQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIEasterlingsNormal">
+        <NodeArray index="Show" Link="NotCountUpgradeAIEasterlingsNormalQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIEvilMenBrutal">
+        <NodeArray index="Show" Link="NotCountUpgradeAIEvilMenBrutalQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIEvilMenNormal">
+        <NodeArray index="Show" Link="NotCountUpgradeAIEvilMenNormalQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIMistyMountainsBrutal">
+        <NodeArray index="Show" Link="NotCountUpgradeAIMistyMountainsBrutalQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIMistyMountainsNormal">
+        <NodeArray index="Show" Link="NotCountUpgradeAIMistyMountainsNormalQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIMordorHard">
+        <NodeArray index="Show" Link="NotCountUpgradeAIMordorHardQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIArnorHard">
+        <NodeArray index="Show" Link="NotCountUpgradeAIArnorHardQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIDwarvesHard">
+        <NodeArray index="Show" Link="NotCountUpgradeAIDwarvesHardQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIEastGondorHard">
+        <NodeArray index="Show" Link="NotCountUpgradeAIEastGondorHardQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIEasterlingsHard">
+        <NodeArray index="Show" Link="NotCountUpgradeAIEasterlingsHardQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIElvesHard">
+        <NodeArray index="Show" Link="NotCountUpgradeAIElvesHardQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIEvilMenHard">
+        <NodeArray index="Show" Link="NotCountUpgradeAIEvilMenHardQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIMistyMountainsHard">
+        <NodeArray index="Show" Link="NotCountUpgradeAIMistyMountainsHardQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIMordorBrutal">
+        <NodeArray index="Show" Link="NotCountUpgradeAIMordorBrutalQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIMordorNormal">
+        <NodeArray index="Show" Link="NotCountUpgradeAIMordorNormalQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIWestGondorHard">
+        <NodeArray index="Show" Link="NotCountUpgradeAIWestGondorHardQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIElvesBase">
+        <NodeArray index="Show" Link="NotCountUpgradeAIElvesBaseQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIArnorBase">
+        <NodeArray index="Show" Link="NotCountUpgradeAIArnorBaseQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIWestGondorBase">
+        <NodeArray index="Show" Link="NotCountUpgradeAIWestGondorBaseQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIMordorBase">
+        <NodeArray index="Show" Link="NotCountUpgradeAIMordorBaseQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIMistyMountainsBase">
+        <NodeArray index="Show" Link="NotCountUpgradeAIMistyMountainsBaseQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIEvilMenBase">
+        <NodeArray index="Show" Link="NotCountUpgradeAIEvilMenBaseQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIDwarvesBase">
+        <NodeArray index="Show" Link="NotCountUpgradeAIDwarvesBaseQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIEasterlingsBase">
+        <NodeArray index="Show" Link="NotCountUpgradeAIEasterlingsBaseQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AglarondUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeAglarondUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AglarondUpgradeSpawn22">
+        <NodeArray index="Show" Link="NotCountUpgradeAglarondUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AglarondUpgradeSpawn3">
+        <NodeArray index="Use" Link="CountUpgradeOathOfErechCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeErechUpgradespawn42QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AmonLancUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeAmonLancUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AmonLancUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeAmonLancUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AmonsulUpgradeSpawn32">
+        <NodeArray index="Use" Link="CountUpgradeGuerillaWarfareCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeAmonSulUpgradeSpawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AmonsulUpgradeSpawn33">
+        <NodeArray index="Show" Link="NotCountUpgradeGuerillaWarfareQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnduinCampUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeAnduinCampUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnduinCampUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeAnduinCampUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnorienUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeAnorienUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnorienUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeAnorienUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ArbiterRequirement">
+        <NodeArray index="Use" Link="AndLTCountUnitArbiterMPQueuedOrBetter2"/>
+    </CRequirement>
+    <CRequirement id="ErynVornUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeErynVornUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErynVornUpgradeSpawn32">
+        <NodeArray index="Show" Link="NotCountUpgradeErynVornUpgradeSpawn32QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErynVornUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeErynVornUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErynVornUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeErynVornUpgradeSpawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErynVornUpgradeSpawn22">
+        <NodeArray index="Show" Link="NotCountUpgradeErynVornUpgradeSpawn5QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HouseOfHealing">
+        <NodeArray index="Show" Link="NotCountUpgradeHouseOfHealingQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErynVornUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeErynVornUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RangersOfTheWhiteMountains">
+        <NodeArray index="Show" Link="NotCountUpgradeRangersOfTheWhiteMountainsQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ReinforcementsFromHarandor">
+        <NodeArray index="Show" Link="NotCountUpgradeReinforcementsFromHarandorQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ServantsOfMordor">
+        <NodeArray index="Show" Link="NotCountUpgradeServantsOfMordorQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BreeUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeBreeUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BatheInGold2">
+        <NodeArray index="Show" Link="NotCountUpgradeBatheInGold2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BatheInGold3">
+        <NodeArray index="Show" Link="NotCountUpgradeBatheInGold22QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlackValeUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeBlackValeUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlackValeUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeBlackValeUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnduinCampUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeAnduinCampUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BreeUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeBreeUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BreeUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeBreeUpgradeSpawn22QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DispersePower">
+        <NodeArray index="Use" Link="CountUpgradeFortify3OuterHoldingsCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeDispersePowerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EldacarUnlock2">
+        <NodeArray index="Use" Link="CountUpgradeDispersePowerCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEldacarUnlock2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BeastsOfNurn">
+        <NodeArray index="Show" Link="NotCountUpgradeBeastsOfNurnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Vassalsupport">
+        <NodeArray index="Show" Link="CountUpgradeDispersePowerCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DwarvenFriendship">
+        <NodeArray index="Show" Link="NotCountUpgradeDwarvenFriendshipQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DevotionToAmroth">
+        <NodeArray index="Use" Link="AndNotCountUpgradeGaladrielQueuedOrBetterNotCountUpgradeDevotionToAmdirQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeDevotionToAmrothQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DevotionToAmdir">
+        <NodeArray index="Use" Link="AndNotCountUpgradeDevotionToAmrothQueuedOrBetterNotCountUpgradeGaladrielQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeDevotionToAmdirQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DevotionToAmrothCloak">
+        <NodeArray index="Show" Link="CountUpgradeDevotionToAmrothCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="DevotionToAmdirSlam">
+        <NodeArray index="Show" Link="CountUpgradeDevotionToAmdirCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="ConcealTheHalls">
+        <NodeArray index="Use" Link="CountUnitShieldBatteryCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeConcealTheHallsQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EmpowerAdunabethTheQuietAbility">
+        <NodeArray index="Show" Link="CountUpgradeEmpowerAdunabethTheQuietCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="HaveNovaArmorBlinkSuit">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="Khorakhil">
+        <NodeArray index="Use" Link="AndNotCountUpgradeEmpowerAdunabethTheQuietQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeKhorakhilQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Genevive">
+        <NodeArray index="Show" Link="NotCountUpgradeGeneviveQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Galadriel">
+        <NodeArray index="Use" Link="AndNotCountUpgradeDevotionToAmdirQueuedOrBetterNotCountUpgradeDevotionToAmrothQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeGaladrielQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HaveK5ChainLightning">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveNovaWeaponPsiBlade">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="EmpowerAdunabethTheQuiet">
+        <NodeArray index="Use" Link="AndNotCountUpgradeKhorakhilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEmpowerAdunabethTheQuietQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ChiefOfDruwaithGood">
+        <NodeArray index="Show" Link="NotCountUpgradeChiefOfDruwaithgoodQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SilvanCombatantTraining">
+        <NodeArray index="Show" Link="NotCountUpgradeSilvanCombatantTrainingQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Thranduil">
+        <NodeArray index="Use" Link="CountUpgradeSilvanCombatantTrainingCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeThranduilQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SilverlodeUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeSilverlodeUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CorsairEncampmentPelargir">
+        <NodeArray index="Use" Link="CountUpgradePelargirDestroyedCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeCorsairEncampmentPelargirQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CorsairEncampmentLondDaer">
+        <NodeArray index="Use" Link="CountUpgradeLondDaerDestroyedCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeCorsairEncampmentLondDaerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CorsairEncampmentLefnui">
+        <NodeArray index="Use" Link="CountUpgradeLefnuiDestroyedCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeCorsairEncampmentLefnuiQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CorsairEncampmentHarlond">
+        <NodeArray index="Use" Link="CountUpgradeHarlondDestroyedCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeCorsairEncampmentHarlondQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CorsairLord">
+        <NodeArray index="Show" Link="NotCountUpgradeCorsairLordQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CorsairEncampmentUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeCorsairEncampmentUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DorwinionGoodUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeDorwinionGoodUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DorwinionGoodUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeDorwinionGoodUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DorwinionGoodUpgradeSpawn22">
+        <NodeArray index="Show" Link="NotCountUpgradeDorwinionGoodUpgradespawn22QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BatheInGold">
+        <NodeArray index="Show" Link="NotCountUpgradeBatheInGoldQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EchoesofRhuadur">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingOuterRhuadurCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEchoesOfRhuadurQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GuardiansOfLastBridge">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingLastBridgeCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeGuardiansOfLastBridgeQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EchoesofRhuadur3">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingOuterRhuadurCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEchoesOfRhuadurQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EchoesofRhuadur4">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingOuterRhuadurCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEchoesOfRhuadurQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EchoesofRhuadur5">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingOuterRhuadurCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEchoesOfRhuadurQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MartimeLegacy">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingTharbadCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeMartimeLegacyQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Horamuth">
+        <NodeArray index="Show" Link="NotCountUpgradeHoramuthQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FreePeopleOfDorwinionUpgradeSpawn">
+        <NodeArray index="Use" Link="CountUpgradeFightForDorwinionCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFreePeopleOfDorwinionUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EdhelionUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeEdhelionUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EdhelionUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeEdhelionUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FreePeopleOfDorwinionUpgradeSpawn2">
+        <NodeArray index="Use" Link="CountUpgradeFightForDorwinionCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFreePeopleOfDorwinionUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FreePeopleOfDorwinionUpgradeSpawn3">
+        <NodeArray index="Use" Link="CountUpgradeFightForDorwinionCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFreePeopleOfDorwinionUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MarquilLeaderOfTheNorthmen">
+        <NodeArray index="Show" Link="NotCountUpgradeMarquilLeaderOfTheNorthmenQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LossarnachUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeLossarnachUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LossarnachUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeLossarnachUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LossarnachUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeLossarnachUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnorienUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeAnorienUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MarquilLeaderOfTheNorthmenfreepeople">
+        <NodeArray index="Use" Link="CountUpgradeFreePeopleOfDorwinionUpgradeSpawnCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeMarquilLeaderOfTheNorthmenQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NomadsResilence">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingMinhiarthCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeNomadsResilenceQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NumenorStonework">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingLondDaerCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeNumenorStoneworkQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreedingQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding2">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding210">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding210QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding211">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding211QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding212">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding212QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding213">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding213QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding214">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding214QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding22">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding22QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding23">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding23QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding24">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding24QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding25">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding25QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding26">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding26QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding27">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding27QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding28">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding28QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrcBreeding29">
+        <NodeArray index="Show" Link="NotCountUpgradeOrcBreeding29QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FortifyTheRiverOfAnduin">
+        <NodeArray index="Show" Link="NotCountUpgradeFortifyTheRiverOfAnduinQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RedDwarvesEncampmentUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeRedDwarvesEncampmentUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlueMountainsUpgradeSpawn4zealot">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBlueMountainsUpgradespawn4QueuedOrBetterNotCountUpgradeBlueMountainsUpgradespawn4ZealotandcrossbowmanQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBlueMountainsUpgradespawn41QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlueMountainsUpgradeSpawn4zealotandcrossbowman">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBlueMountainsUpgradespawn4QueuedOrBetterNotCountUpgradeBlueMountainsUpgradespawn41QueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBlueMountainsUpgradespawn4ZealotandcrossbowmanQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Bolg">
+        <NodeArray index="Use" Link="CountUpgradeRiderOfMountGramCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBolgQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CarnDumUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeCarnDumUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CarnDumUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeCarnDumUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CarnDumUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeCarnDumUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HaveSOAPylonOvercharge">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="HorseLordsOfDolAmroth">
+        <NodeArray index="Show" Link="NotCountUpgradeHorselordsOfDolAmrothQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DruwaithUpgradeSpawnGood">
+        <NodeArray index="Show" Link="NotCountUpgradeDruwaithUpgradeSpawnGoodQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DruwaithUpgradeSpawnGood2">
+        <NodeArray index="Show" Link="NotCountUpgradeDruwaithUpgradeSpawnGood2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DruwaithUpgradeSpawnGood3">
+        <NodeArray index="Show" Link="NotCountUpgradeDruwaithUpgradeSpawnGood3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AglarondCopper">
+        <NodeArray index="Use" Link="AndNotCountUpgradeAglarondGoldQueuedOrBetterAndNotCountUpgradeAglarondIronQueuedOrBetterAndNotCountUpgradeAglarondMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeAglarondCopperQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AglarondGold">
+        <NodeArray index="Use" Link="AndNotCountUpgradeAglarondCopperQueuedOrBetterAndNotCountUpgradeAglarondIronQueuedOrBetterAndNotCountUpgradeAglarondMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeAglarondGoldQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AglarondIron">
+        <NodeArray index="Use" Link="AndNotCountUpgradeAglarondCopperQueuedOrBetterAndNotCountUpgradeAglarondGoldQueuedOrBetterAndNotCountUpgradeAglarondMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeAglarondIronQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AglarondMithril">
+        <NodeArray index="Use" Link="AndNotCountUpgradeAglarondCopperQueuedOrBetterAndNotCountUpgradeAglarondGoldQueuedOrBetterAndNotCountUpgradeAglarondIronQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeAglarondMithrilQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="PrinceOfDolAmroth">
+        <NodeArray index="Use" Link="AndNotCountUpgradeValandilsInsanityQueuedOrBetterNotCountUpgradeOathOfErechQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradePrinceOfDolAmrothQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RedDwarvesEncampmentUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeRedDwarvesEncampmentUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RedDwarvesEncampmentUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeRedDwarvesEncampmentUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LordOfIronHills">
+        <NodeArray index="Show" Link="NotCountUpgradeLordOfIronHillsQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FightForDorwinion">
+        <NodeArray index="Show" Link="NotCountUpgradeFightForDorwinionQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CorsairEncampmentUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeCorsairEncampmentUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SilverlodeUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeSilverlodeUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SilverlodeUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeSilverlodeUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SouthernEncampmentUpgradeSpawn32">
+        <NodeArray index="Use" Link="CountUpgradeCallTheSouthVictoryCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeSouthernEncampmentUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SouthernEncampmentUpgradeSpawn33">
+        <NodeArray index="Use" Link="CountUpgradeCallTheSouthVictoryCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeSouthernEncampmentUpgradespawn33QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="WarlordOfTheSouthrons">
+        <NodeArray index="Use" Link="CountUpgradeCallTheSouthVictoryCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeWarlordOfTheSouthronsQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TheCallingOfTheSouth">
+        <NodeArray index="Show" Link="NotCountUpgradeTheCallingOfTheSouthQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="WestMarchUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeWestMarchUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SuthburgUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeSuthburgUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EstablishAngmar">
+        <NodeArray index="Use" Link="CountUpgradeCarnDumIsEstablishedCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEstablishAngmarQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CelebrandtUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeCelebrandtUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CelebrandtUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeCelebrandtUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EmpowerSauron">
+        <NodeArray index="Use" Link="AndNotCountUpgradeUvarthaTheBlackHorsemanQueuedOrBetterNotCountUpgradeEmpowerWitchKingQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEmpowerSauronQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FrozenPlainsUpgradeSpawn32">
+        <NodeArray index="Use" Link="CountUpgradeEstablishAngmarCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFrozenPlainsUpgradespawn32QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FrozenPlainsUpgradeSpawn33">
+        <NodeArray index="Use" Link="CountUpgradeEstablishAngmarCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFrozenPlainsUpgradespawn33QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FrozenPlainsUpgradeSpawn34">
+        <NodeArray index="Use" Link="CountUpgradeEstablishAngmarQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFrozenPlainsUpgradespawn34QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HaveK5Apocalypse">
+        <NodeArray index="Show" Link="CountUpgradeEmpowerSauronCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="CarnDumUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeCarnDumUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RidersOfMountGram">
+        <NodeArray index="Show" Link="NotCountUpgradeRiderOfMountGramQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SuthburgUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeSuthburgUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SuthburgUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeSuthburgUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AglarondUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeAglarondUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="VileServitude">
+        <NodeArray index="Show" Link="NotCountUpgradeVileServitudeQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Broggau">
+        <NodeArray index="Use" Link="CountUpgradeVileServitudeCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBroggauQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="WestMarchUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeWestMarchUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="WestMarchUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeWestMarchUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="WitchKingAbility2">
+        <NodeArray index="Show" Link="CountUpgradeEmpowerWitchKingCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RhosgobelUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeRhosgobelUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LongLiveTheKing">
+        <NodeArray index="Show" Link="NotCountUpgradeLongLiveTheKingQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HaveKerriganPsiBolt">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="Cirdan">
+        <NodeArray index="Use" Link="CountUpgradeFormAColationCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeCirdanQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Orophin">
+        <NodeArray index="Show" Link="NotCountUpgradeOrophinQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilLefnuiUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilLefnuiUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilLefnuiUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilLefnuiUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilLefnuiUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilLefnuiUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CelebrandtUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeCelebrandtUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrganizeTheArmy">
+        <NodeArray index="Show" Link="NotCountUpgradeOrganizeTheArmyQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NanLaeglinUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeNanLaeglinUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EldacarUnlock">
+        <NodeArray index="Use" Link="CountUpgradeCentralizePowerCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEldacarUnlockQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BurstCapacitorsResearched">
+        <NodeArray index="Use" Link=""/>
+    </CRequirement>
+    <CRequirement id="BurstCapacitorsResearched2"/>
+    <CRequirement id="ConsolidatePower">
+        <NodeArray index="Use" Link="CountUpgradeConsolidatePowerConditionsCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeDispersePowerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EastBightUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeEastBightUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EastBightUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeEastBightUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EastBightUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeEastBightUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErechUpgradeSpawn42">
+        <NodeArray index="Use" Link="CountUpgradeOathOfErechCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeErechUpgradespawn42QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErechUpgradeSpawn43">
+        <NodeArray index="Use" Link="AndNotCountUpgradeValandilsInsanityQueuedOrBetterNotCountUpgradePrinceOfDolAmrothQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeOathOfErechQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ConductorOfSurveilers">
+        <NodeArray index="Use" Link="CountUpgradeOathOfErechCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeOathOfErech2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlackValeUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeBlackValeUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilOrthancUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilOrthancUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilOrthancUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilOrthancUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MirkwoodUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeMirkwoodUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MirkwoodUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeMirkwoodUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MirkwoodUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeMirkwoodUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MirkwoodUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeMirkwoodUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilOrthancUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilOrthancUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NanLaeglinUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeNanLaeglinUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NotUnderConstruction2">
+        <EditorCategories value="Race:Neutral,TechType:Unit"/>
+        <NodeArray index="Use" Link="Not1225867992CountBehaviorUnderConstructionCompleteOnlyAtUnit"/>
+    </CRequirement>
+    <CRequirement id="LieutenantOfHoarddale">
+        <NodeArray index="Use" Link="CountUpgradeOrganizeTheArmyCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeLieutenantOfHoarddaleQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RallyEasterlings3">
+        <NodeArray index="Show" Link="AndNotCountUpgradeRallyEasterlings3QueuedOrBetterCountUpgradeRallyTheEasterlingsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RallyEasterlings">
+        <NodeArray index="Show" Link="AndNotCountUpgradeRallyEasterlingsQueuedOrBetterCountUpgradeRallyTheEasterlingsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RallyEasterlings2">
+        <NodeArray index="Show" Link="AndNotCountUpgradeRallyEasterlings2QueuedOrBetterCountUpgradeRallyTheEasterlingsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RallyEasterlings32">
+        <NodeArray index="Show" Link="AndNotCountUpgradeRallyEasterlings32QueuedOrBetterCountUpgradeRallyTheEasterlingsCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="Reconcile">
+        <NodeArray index="Use" Link="NotCountUpgradeOppressQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeReconcileQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Oppress">
+        <NodeArray index="Use" Link="NotCountUpgradeReconcileQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeOppressQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RallyTheEasterlings">
+        <NodeArray index="Use" Link="CountUpgradeTearMorgomirAsunderCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeRallyTheEasterlingsQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhosgobelUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeRhosgobelUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhosgobelUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeRhosgobelUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhosgobelUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeRhosgobelUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TearMorgomirAsunder">
+        <NodeArray index="Use" Link="NotCountUpgradeSummonMorgomirQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeTearMorgomirAsunderQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SummonMorgomir">
+        <NodeArray index="Use" Link="NotCountUpgradeTearMorgomirAsunderQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeSummonMorgomirQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TearMorgomirAsunderability">
+        <NodeArray index="Show" Link="CountUpgradeTearMorgomirAsunderCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="UseG4ClusterBombs">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="UseHallucination2">
+        <EditorCategories value="Race:Protoss,TechType:Ability"/>
+        <CanBeSuppressed index="Show" value="1"/>
+        <NodeArray index="Use" Link="CountUpgradehaltechCompleteOnly2084212084TechTreeCheat"/>
+    </CRequirement>
+    <CRequirement id="UseHallucination3">
+        <EditorCategories value="Race:Protoss,TechType:Ability"/>
+        <CanBeSuppressed index="Show" value="1"/>
+        <NodeArray index="Use" Link="CountUpgradehaltechCompleteOnly2084212084TechTreeCheat"/>
+    </CRequirement>
+    <CRequirement id="UvarthaTheBlackHorseman">
+        <NodeArray index="Use" Link="AndNotCountUpgradeEmpowerWitchKingQueuedOrBetterNotCountUpgradeEmpowerSauronQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeUvarthaTheBlackHorsemanQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EmpowerWitchKing">
+        <NodeArray index="Use" Link="AndNotCountUpgradeUvarthaTheBlackHorsemanQueuedOrBetterNotCountUpgradeEmpowerSauronQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEmpowerWitchKingQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ValandilsInsanity">
+        <NodeArray index="Use" Link="AndNotCountUpgradePinnathGaelinUpgradespawnQueuedOrBetterNotCountUpgradeErechUpgradespawnQueuedOrBetterNotCountUpgradeDolAmrothUpgradespawnQueuedOrBetterNotCountUpgradeOathOfErechQueuedOrBetterNotCountUpgradePrinceOfDolAmrothQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ForifyOuterHoldingTharbad">
+        <NodeArray index="Use" Link="AndAndCountUpgradeTharbadUpgradespawnCompleteOnlyAndNotCountUpgradeRetreatOuterHoldingTharbadQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFortifyOuterHoldingTharbadQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ForifyOuterHoldingLastBridge">
+        <NodeArray index="Use" Link="AndCountUpgradeLastBridgeUpgradespawnCompleteOnlyAndNotCountUpgradeRetreatOuterHoldingLastBridgeQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFortifyOuterHoldingLastBridgeQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ForifyOuterHoldingMinhiarth">
+        <NodeArray index="Use" Link="AndCountUpgradeMinhiarthUpgradespawnCompleteOnlyAndNotCountUpgradeRetreatOuterHoldingMinhiarthQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFortifyOuterHoldingMinhiarthQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ForifyOuterHoldingLondDaer">
+        <NodeArray index="Use" Link="AndCountUpgradeLondDaerUpgradespawnCompleteOnlyAndNotCountUpgradeRetreatOuterHoldingLondDaerQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFortifyOuterHoldingLondDaerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Fimbretihil">
+        <NodeArray index="Use" Link="CountUpgradeGardenOfEntwivesUpgradespawn2CompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFimbretihilQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LifeSteal">
+        <NodeArray index="Show" Link="CountUpgradeGuardiansOfLastBridgeCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="RetreatOuterHoldingTharbad">
+        <NodeArray index="Use" Link="AndCountUpgradeTharbadUpgradespawnCompleteOnlyAndNotCountUpgradeFortifyOuterHoldingTharbadQueuedOrBetterNotCountUpgradeTharbadUpgradespawn2QueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeRetreatOuterHoldingTharbadQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GladdenCampUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeGladdenCampUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilMinhiarthUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilMinhiarthUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DurinTheFifth">
+        <NodeArray index="Use" Link="CountUpgradeBlockDurinThefifthCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeDurinTheFifthQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnfalasUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeAnfalasUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BuzraDumGold">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBuzraDumCopperQueuedOrBetterAndNotCountUpgradeBuzraDumIronQueuedOrBetterAndNotCountUpgradeBuzraDumMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBuzraDumGoldQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EreborGold">
+        <NodeArray index="Use" Link="AndNotCountUpgradeEreborCopperQueuedOrBetterAndNotCountUpgradeEreborIronQueuedOrBetterAndNotCountUpgradeEreborMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEreborGoldQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilMinhiarthUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilMinhiarthUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilMinhiarthUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilMinhiarthUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilRhuadurUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilRhuadurUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilRhuadurUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilRhuadurUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GladdenCampUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeGladdenCampUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GladdenCampUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeGladdenCampUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HaveSOAChronoBeam">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveSOASuperChrono">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="LastBridgeUpgradeSpawn2">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingLastBridgeCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeLastBridgeUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LondDaerUpgradeSpawn3">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingLondDaerCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeLondDaerUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OuterRhuadurUpgradeSpawn22">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingOuterRhuadurCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeOuterRhuadurUpgradespawn22QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ForifyOuterHoldingOuterRhuadur">
+        <NodeArray index="Use" Link="AndAndCountUpgradeOuterRhuadurUpgradespawnCompleteOnlyAndNotCountUpgradeRetreatOuterHoldingOuterRhuadurQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeFortifyOuterHoldingOuterRhuadurQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RetreatFromDorwinion">
+        <NodeArray index="Use" Link="NotCountUpgradeFightForDorwinionQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeMigrateFromDorwinionQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LibnirUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeLibnirUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LibnirUpgradeSpawn3">
+        <NodeArray index="Use" Link="CountUpgradeBuildUpTheFleetCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeLibnirUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LitashUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeLitashUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ForlondUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeForlondUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FormAColation">
+        <NodeArray index="Show" Link="NotCountUpgradeFormAColationQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Gilgiladlifesteal">
+        <NodeArray index="Show" Link="CountUpgradeFormAColationCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="HarlondUpgradeSpawn2">
+        <NodeArray index="Use" Link="CountUpgradeInspireTheElvesOfHarlondCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeHarlondUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HarlondUpgradeSpawn3">
+        <NodeArray index="Use" Link="CountUpgradeInspireTheElvesOfHarlondCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeHarlondUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ForlondUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeForlondUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LitashUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeLitashUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LitashUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeLitashUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LitashUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeLitashUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvilRhuadurUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeEvilRhuadurUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="PelargirUpgradeSpawn32">
+        <NodeArray index="Use" Link="CountUpgradeBuildUpTheFleetCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradePelargirUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BuildUpTheFleet">
+        <NodeArray index="Show" Link="NotCountUpgradeBuildUpTheFleetQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LibnirUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeLibnirUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CorsairInvasion">
+        <NodeArray index="Use" Link="CountUpgradeSouthernEncampmentUpgradespawnCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeCorsairInvasionQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RetreatOuterHoldingLastBridge">
+        <NodeArray index="Use" Link="AndCountUpgradeLastBridgeUpgradespawnCompleteOnlyAndNotCountUpgradeFortifyOuterHoldingLastBridgeQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeRetreatOuterHoldingLastBridgeQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RetreatOuterHoldingLondDaer">
+        <NodeArray index="Use" Link="AndCountUpgradeLondDaerUpgradespawnCompleteOnlyAndNotCountUpgradeFortifyOuterHoldingLondDaerQueuedOrBetterNotCountUpgradeLondDaerUpgradespawn2QueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeRetreatOuterHoldingLondDaerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RetreatOuterHoldingMinhiarth">
+        <NodeArray index="Use" Link="AndCountUpgradeMinhiarthUpgradespawnCompleteOnlyAndNotCountUpgradeFortifyOuterHoldingMinhiarthQueuedOrBetterNotCountUpgradeMinhiarthUpgradespawn2QueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeRetreatOuterHoldingMinhiarthQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RetreatOuterHoldingOuterRhuadur">
+        <NodeArray index="Use" Link="AndCountUpgradeOuterRhuadurUpgradespawnCompleteOnlyAndNotCountUpgradeFortifyOuterHoldingOuterRhuadurQueuedOrBetterNotCountUpgradeOuterRhuadurUpgradespawn2QueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeRetreatOuterHoldingOuterRhuadurQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TharbadUpgradeSpawn3">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingTharbadCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeTharbadUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TolfalasUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeTolfalasUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TolfalasUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeTolfalasUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="PrepareToFlee">
+        <NodeArray index="Use" Link="CountUpgradeDaleUpgradespawnCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradePrepareToFleeQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="InspireTheElvesOfHarlond">
+        <NodeArray index="Use" Link="CountUnitZeratulCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeInspireTheElvesOfHarlondQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HaveNovaWeaponHellfireShotgun">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveNovaWeaponHellfireShotgunAndNovaEquipmentSwapVisible">
+        <CanBeSuppressed index="Use" value="0"/>
+        <CanBeSuppressed index="Show" value="1"/>
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveNovaWeaponHellfireShotgunBehavior">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveNovaWeaponPlasmaRifle">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="IronHillsGold">
+        <NodeArray index="Use" Link="AndNotCountUpgradeIronHillsCopperQueuedOrBetterAndNotCountUpgradeIronHillsIronQueuedOrBetterAndNotCountUpgradeIronHillsMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeIronHillsGoldQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BuzraDumMithril">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBuzraDumCopperQueuedOrBetterAndNotCountUpgradeBuzraDumGoldQueuedOrBetterAndNotCountUpgradeBuzraDumIronQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBuzraDumMithrilQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EreborMithril">
+        <NodeArray index="Use" Link="AndNotCountUpgradeEreborCopperQueuedOrBetterAndNotCountUpgradeEreborGoldQueuedOrBetterAndNotCountUpgradeEreborIronQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEreborMithrilQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="IronHillsMithril">
+        <NodeArray index="Use" Link="AndNotCountUpgradeIronHillsCopperQueuedOrBetterAndNotCountUpgradeIronHillsGoldQueuedOrBetterAndNotCountUpgradeIronHillsIronQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeIronHillsMithrilQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EreborCopper">
+        <NodeArray index="Use" Link="AndNotCountUpgradeEreborGoldQueuedOrBetterAndNotCountUpgradeEreborIronQueuedOrBetterAndNotCountUpgradeEreborMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEreborCopperQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BuzraDumCopper">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBuzraDumGoldQueuedOrBetterAndNotCountUpgradeBuzraDumIronQueuedOrBetterAndNotCountUpgradeBuzraDumMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBuzraDumCopperQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="IronHillsCopper">
+        <NodeArray index="Use" Link="AndNotCountUpgradeIronHillsGoldQueuedOrBetterAndNotCountUpgradeIronHillsIronQueuedOrBetterAndNotCountUpgradeIronHillsMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeIronHillsCopperQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BuzraDumUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeBuzraDumUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BuzraDumUpgradeSpawn3">
+        <NodeArray index="Use" Link="CountUpgradeSearchForTheRelicsOfBuzraDumCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBuzraDumUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BuzraDumUpgradeSpawn4">
+        <NodeArray index="Use" Link="CountUpgradeSearchForTheRelicsOfBuzraDumCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBuzraDumUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlueMountainsGold">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBlueMountainsCopperQueuedOrBetterAndNotCountUpgradeBlueMountainsIronQueuedOrBetterAndNotCountUpgradeBlueMountainsMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBlueMountainsGoldQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="KhazaDumIron">
+        <NodeArray index="Use" Link="AndNotCountUpgradeKhazaDumCopperQueuedOrBetterAndNotCountUpgradeKhazaDumGoldQueuedOrBetterAndNotCountUpgradeKhazaDumMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeKhazaDumironQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlueMountainsIron">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBlueMountainsCopperQueuedOrBetterAndNotCountUpgradeBlueMountainsGoldQueuedOrBetterAndNotCountUpgradeBlueMountainsMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBlueMountainsIronQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BuzraDumIron">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBuzraDumCopperQueuedOrBetterAndNotCountUpgradeBuzraDumGoldQueuedOrBetterAndNotCountUpgradeBuzraDumMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBuzraDumIronQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EreborIron">
+        <NodeArray index="Use" Link="AndNotCountUpgradeEreborCopperQueuedOrBetterAndNotCountUpgradeEreborGoldQueuedOrBetterAndNotCountUpgradeEreborMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeEreborIronQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="IronHillsIron">
+        <NodeArray index="Use" Link="AndNotCountUpgradeIronHillsCopperQueuedOrBetterAndNotCountUpgradeIronHillsGoldQueuedOrBetterAndNotCountUpgradeIronHillsMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeIronHillsIronQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="KhazaDumMithril">
+        <NodeArray index="Use" Link="AndNotCountUpgradeKhazaDumCopperQueuedOrBetterAndNotCountUpgradeKhazaDumGoldQueuedOrBetterAndNotCountUpgradeKhazaDumironQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeKhazaDumMithrilQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlueMountainsMithril">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBlueMountainsCopperQueuedOrBetterAndNotCountUpgradeBlueMountainsGoldQueuedOrBetterAndNotCountUpgradeBlueMountainsIronQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBlueMountainsMithrilQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlueMountainscopper">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBlueMountainsGoldQueuedOrBetterAndNotCountUpgradeBlueMountainsIronQueuedOrBetterAndNotCountUpgradeBlueMountainsMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBlueMountainsCopperQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Messingaround">
+        <NodeArray index="Use" Link="NotCountUpgradeKhazaDumGoldQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeKhazaDumMithrilQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="KhazaDumcopper">
+        <NodeArray index="Use" Link="AndNotCountUpgradeKhazaDumGoldQueuedOrBetterAndNotCountUpgradeKhazaDumironQueuedOrBetterAndNotCountUpgradeKhazaDumMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeKhazaDumCopperQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="KhazaDumGold">
+        <NodeArray index="Use" Link="AndNotCountUpgradeKhazaDumCopperQueuedOrBetterAndNotCountUpgradeKhazaDumironQueuedOrBetterAndNotCountUpgradeKhazaDumMithrilQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeKhazaDumGoldQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SearchForTheRelicsOfBuzraDum">
+        <NodeArray index="Use" Link="CountUpgradeBuzraDumUpgradespawn2CompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeSearchForTheRelicsOfBuzraDumQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ClusterWarheadsResearched">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="DolAmrothUpgradeSpawn2">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeDolAmrothUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DolAmrothUpgradeSpawn3">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeDolAmrothUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DolAmrothUpgradeSpawn4">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeDolAmrothUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DolAmrothUpgradeSpawn5">
+        <NodeArray index="Use" Link="AndNotCountUpgradeValandilsInsanityQueuedOrBetterCountUpgradeHorselordsOfDolAmrothCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeDolAmrothUpgradespawn5QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErechUpgradeSpawn2">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeErechUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErechUpgradeSpawn3">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeErechUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErechUpgradeSpawn4">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeErechUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DolAmrothUpgradeSpawn">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeDolAmrothUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HaveArmory">
+        <NodeArray index="Use" Link=""/>
+    </CRequirement>
+    <CRequirement id="LefnuiUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeLefnuiUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LefnuiUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeLefnuiUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="PinnathGaelinUpgradeSpawn">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradePinnathGaelinUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrthancUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeOrthancUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DruwaithUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeDruwaithUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DruwaithUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeDruwaithUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DruwaithUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeDruwaithUpgradeSpawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DunharrowUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeDunharrowUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DunharrowUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeDunharrowUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HoarddaleUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeHoarddaleUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HoarddaleUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeHoarddaleUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HoarddaleUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeHoarddaleUpgradeSpawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DruwaithUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeDruwaithUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrthancUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeOrthancUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OrthancUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeOrthancUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="PinnathGaelinUpgradeSpawn2">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradePinnathGaelinUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="PinnathGaelinUpgradeSpawn3">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradePinnathGaelinUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErechUpgradeSpawn">
+        <NodeArray index="Use" Link="NotCountUpgradeValandilsInsanityQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeErechUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TrollshawsUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeTrollshawsUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DunlandUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeDunlandUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DunlandUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeDunlandUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DunharrowUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeDunharrowUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GardenEntwivesUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeGardenOfEntwivesUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AmonsulUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeAmonsulUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AmonsulUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeAmonsulUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnnuminasUpgradeSpawn2">
+        <NodeArray index="Show" Link="AndNotCountUpgradeAnnuminasUpgradespawn2QueuedOrBetterNotCountUpgradeDispersePowerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnnuminasUpgradeSpawn3">
+        <NodeArray index="Show" Link="AndNotCountUpgradeAnnuminasUpgradespawn3QueuedOrBetterNotCountUpgradeDispersePowerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnnuminasUpgradeSpawn4">
+        <NodeArray index="Show" Link="AndNotCountUpgradeAnnuminasUpgradespawn4QueuedOrBetterNotCountUpgradeDispersePowerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BarrowDownsUpgradeSpawn2">
+        <NodeArray index="Show" Link="AndNotCountUpgradeBarrowDownsUpgradespawn2QueuedOrBetterNotCountUpgradeDispersePowerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BarrowDownsUpgradeSpawn3">
+        <NodeArray index="Show" Link="AndNotCountUpgradeDispersePowerQueuedOrBetterNotCountUpgradeBarrowDownsUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnnuminasUpgradeSpawn">
+        <NodeArray index="Show" Link="AndNotCountUpgradeAnnuminasUpgradespawnQueuedOrBetterNotCountUpgradeDispersePowerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlueMountainsUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeBlueMountainsUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlueMountainsUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeBlueMountainsUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlueMountainsUpgradeSpawn4">
+        <NodeArray index="Use" Link="AndNotCountUpgradeBlueMountainsUpgradespawn4ZealotandcrossbowmanQueuedOrBetterNotCountUpgradeBlueMountainsUpgradespawn41QueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeBlueMountainsUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DaleUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeDaleUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DaleUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeDaleUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DaleUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeDaleUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EreborUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeEreborUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EreborUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeEreborUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EreborUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeEreborUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EttenmoorsUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeEttenmoorsUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EttenmoorsUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeEttenmoorsUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FrozenPlainsUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeFrozenPlainsUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FrozenPlainsUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeFrozenPlainsUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GardenEntwivesUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeGardenOfEntwivesUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GreenwoodHallsUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeGreenwoodhallsUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GreenwoodHallsUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeGreenwoodhallsUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HarlondUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeHarlondUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GreenwoodUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeGreenwoodUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GreenwoodUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeGreenwoodUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GreenwoodUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeGreenwoodUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LothorienUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeLothorienUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LothorienUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeLothorienUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LothorienUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeLothorienUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LothorienUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeLothorienUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MithlondUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeMithlondUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MithlondUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeMithlondUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MithlondUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeMithlondUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MithlondUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeMithlondUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AmonLancUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeAmonLancUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MountGramUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeMountGramUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GoblinTownUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeGoblinTownUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GoblinTownUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeGoblinTownUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EttenmoorsUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeEttenmoorsUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="IronhillsUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeIronHillsUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="IronhillsUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeIronHillsUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="IronhillsUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeIronHillsUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BlueMountainsUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeBlueMountainsUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="KhazaDumUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeKhazaUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvendimUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeEvendimUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvendimUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeEvendimUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BarrowDownsUpgradeSpawn">
+        <NodeArray index="Show" Link="AndNotCountUpgradeBarrowDownsUpgradespawnQueuedOrBetterNotCountUpgradeDispersePowerQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FornostlUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeFornostUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BaradDurUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeBaradDurUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BaradDurUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeBaradDurUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BaradDurUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeBaradDurUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BaradDurUpgradeSpawn5">
+        <NodeArray index="Show" Link="NotCountUpgradeBaradDurUpgradespawn5QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BaradDurUpgradeSpawn6">
+        <NodeArray index="Show" Link="NotCountUpgradeBaradDurUpgradespawn6QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CarnenUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeCarnenUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CarnenUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeCarnenUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EsgarothUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeEsgarothUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DorwinionUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeDorwinionUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CirthNurnUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeCirthNurnUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CirthNurnUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeCirthNurnUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CirthNurnUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeCirthNurnUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DorwinionUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeDorwinionUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DorwinionUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeDorwinionUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EsgarothUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeEsgarothUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EsgarothUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeEsgarothUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FornostlUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeFornostUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FornostlUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeFornostUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="EvendimUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeEvendimUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HaveReaperSpiderMines"/>
+    <CRequirement id="KhazaDumUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeKhazaUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="KhazaDumUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeKhazaUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="KhazaDumUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeKhazaUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="IronhillsUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeIronHillsUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LastBridgeUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeLastBridgeUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LondDaerUpgradeSpawn2">
+        <NodeArray index="Use" Link="NotCountUpgradeRetreatOuterHoldingLondDaerQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeLondDaerUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinhiarthUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeMinhiarthUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinhiarthUpgradeSpawn2">
+        <NodeArray index="Use" Link="NotCountUpgradeRetreatOuterHoldingMinhiarthQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeMinhiarthUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinhiarthUpgradeSpawn3">
+        <NodeArray index="Use" Link="CountUpgradeFortifyOuterHoldingMinhiarthCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeMinhiarthUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AmonsulUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeAmonsulUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MountGramUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeMountGramUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MountGramUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeMountGramUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="FrozenPlainsUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeFrozenPlainsUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MountGundabadUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeMountGundabadUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MountGundabadUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeMountGundabadUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MountGundabadUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeMountGundabadUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MountGundabadUpgradeSpawn5">
+        <NodeArray index="Show" Link="NotCountUpgradeMountGundabadUpgradespawn5QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GreenwoodUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeGreenwoodUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NorthEnedwaithUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeNorthEnedwaithUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DunlandUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeDunlandUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SouthEnedwaithUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeSouthEnedwaithUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SouthEnedwaithUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeSouthEnedwaithUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NorthEnedwaithUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeNorthEnedwaithUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TrollshawsUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeTrollshawsUpgradeSpawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TrollshawsUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeTrollshawsUpgradeSpawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HoarddaleUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeHoarddaleUpgradeSpawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AnfalasUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeAnfalasUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LefnuiUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeLefnuiUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BuzraDumUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeBuzraDumUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DolGuldurUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeDolGuldurUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DolGuldurUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeDolGuldurUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ErectTheFortressOfDolGuldur">
+        <NodeArray index="Use" Link="CountUnitNydusCanalCreeperCompleteOnly"/>
+        <NodeArray index="Show" Link="NotCountUpgradeErectTheFortressOfDolGuldurQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="ValandilsInsanityability">
+        <NodeArray index="Use" Link="CountUpgradeValandilsInsanityCompleteOnly"/>
+    </CRequirement>
+    <CRequirement id="WitheredheathUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeWitheredheathUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OuterRhuadurUpgradeSpawn2">
+        <NodeArray index="Use" Link="NotCountUpgradeRetreatOuterHoldingOuterRhuadurQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeOuterRhuadurUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LondDaerUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeLondDaerUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TharbadUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeTharbadUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SouthernEncampmentUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeSouthernEncampmentUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhovanionUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeRhovanionUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinasMorgulUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeMinasMorgulUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DorEnErnilUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeDorEnErnilUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DorEnErnilUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeDorEnErnilUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DorEnErnilUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeDorEnErnilUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LamedonUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeLamedonUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LamedonUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeLamedonUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LamedonUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeLamedonUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinasMorgulUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeMinasMorgulUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinasMorgulUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeMinasMorgulUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinasMorgulUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeMinasMorgulUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NurnUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeNurnUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NurnUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeNurnUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NurnUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeNurnUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhovanionUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeRhovanionUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhovanionUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeRhovanionUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhovanionUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeRhovanionUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="CarnenUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeCarnenUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhunUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeRhunUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhunUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeRhunUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhunUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeRhunUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhunUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeRhunUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="RhunUpgradeSpawn5">
+        <NodeArray index="Show" Link="NotCountUpgradeRhunUpgradespawn5QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SouthernEncampmentUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeSouthernEncampmentUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SouthernEncampmentUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeSouthernEncampmentUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="TharbadUpgradeSpawn2">
+        <NodeArray index="Use" Link="NotCountUpgradeRetreatOuterHoldingTharbadQueuedOrBetter"/>
+        <NodeArray index="Show" Link="NotCountUpgradeTharbadUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OuterRhuadurUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeOuterRhuadurUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="UdunUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeUdunUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="HaveK5WildMutation">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveKerriganWildMutation">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveNuke">
+        <NodeArray index="Use" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveNukeHero">
+        <NodeArray index="Use" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveSOATimeWarp">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveSOAWarpInReinforcements">
+        <EditorCategories value="Race:Protoss"/>
+        <CanBeSuppressed index="Use" value="0"/>
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="HaveVoidSentryMiniTimeWarp">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="MinasAnorUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeMinasAnorUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinasAnorUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeMinasAnorUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinasAnorUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeMinasAnorUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinasAnorUpgradeSpawn5">
+        <NodeArray index="Show" Link="NotCountUpgradeMinasAnorUpgradespawn5QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinasAnorUpgradeSpawn6">
+        <NodeArray index="Show" Link="NotCountUpgradeMinasAnorUpgradespawn6QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="BaradDurUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeBaradDurUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="PelargirUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradePelargirUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OsgiliathUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeOsgiliathUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OsgiliathUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeOsgiliathUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OsgiliathUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeOsgiliathUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="OsgiliathUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeOsgiliathUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MinasAnorUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeMinasAnorUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="PelargirUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradePelargirUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="PelargirUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradePelargirUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="SpectreTrainNuke">
+        <NodeArray index="Use" Link="AndOr96167438Not866976074CountUnitSpectreNukeQueuedOrBetterAtUnit"/>
+    </CRequirement>
+    <CRequirement id="SwarmHostSpawn">
+        <NodeArray index="Use" Link=""/>
+    </CRequirement>
+    <CRequirement id="SwarmHostSpawnLocusts">
+        <NodeArray index="Show" Link=""/>
+    </CRequirement>
+    <CRequirement id="TrainNuke">
+        <NodeArray index="Use" Link="AndNot866976074CountUnitNukeQueuedOrBetterAtUnit"/>
+    </CRequirement>
+    <CRequirement id="UdunUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeUdunUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="UdunUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeUdunUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="UdunUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeUdunUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="DorEnErnilUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeDorEnErnilUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="LamedonUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeLamedonUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="NurnUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeNurnUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="MountGundabadUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeMountGundabadUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="UseStimpack">
+        <NodeArray index="Use" Link=""/>
+    </CRequirement>
+    <CRequirement id="WitheredheathUpgradeSpawn2">
+        <NodeArray index="Show" Link="NotCountUpgradeWitheredheathUpgradespawn2QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="WitheredheathUpgradeSpawn3">
+        <NodeArray index="Show" Link="NotCountUpgradeWitheredheathUpgradespawn3QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="WitheredheathUpgradeSpawn4">
+        <NodeArray index="Show" Link="NotCountUpgradeWitheredheathUpgradespawn4QueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="GoblinTownUpgradeSpawn">
+        <NodeArray index="Show" Link="NotCountUpgradeGoblinTownUpgradespawnQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="AIEastGondorbase">
+        <NodeArray index="Show" Link="NotCountUpgradeAIEastGondorBaseQueuedOrBetter"/>
+    </CRequirement>
+    <CRequirement id="Scorba">
+        <NodeArray index="Show" Link="NotCountUpgradeScorbaQueuedOrBetter"/>
+    </CRequirement>
+</Catalog>

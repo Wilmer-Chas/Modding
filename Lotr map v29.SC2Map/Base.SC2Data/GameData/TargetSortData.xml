@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CTargetSortValidator id="IsHeroic">
+        <Validator value="IsHeroic"/>
+    </CTargetSortValidator>
+    <CTargetSortValidator id="IsStructure">
+        <Validator value="IsStructure"/>
+    </CTargetSortValidator>
+</Catalog>

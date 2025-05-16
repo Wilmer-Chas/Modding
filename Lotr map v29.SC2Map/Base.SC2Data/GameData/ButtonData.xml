@@ -1,0 +1,2776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CButton id="AIArnorHard">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIDwarvesHard">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIEastGondorHard">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIEasterlingsHard">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIEasterlingsBrutal">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIEasterlingsNormal">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIElvesHard">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIEvilMenHard">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIEvilMenBrutal">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIEvilMenNormal">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIMistyMountainsHard">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIMistyMountainsBrutal">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIMistyMountainsNormal">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIMordorHard">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIEastGondorBase">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+    </CButton>
+    <CButton id="AIElvesBase">
+        <HotkeyAlias value="AIEastGondorBase"/>
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+    </CButton>
+    <CButton id="AIArnorBase">
+        <HotkeyAlias value="AIEastGondorBase"/>
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+    </CButton>
+    <CButton id="AIMordorBrutal">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIMordorNormal">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIUpgrades">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+    </CButton>
+    <CButton id="AcquireMove2">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <HotkeyAlias value="Attack"/>
+    </CButton>
+    <CButton id="AdeptHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-adept.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-adept.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="AdeptHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-adept.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-adept.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="AglarondUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AglarondUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AiWestGondorBase">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AIEvilMenBase">
+        <HotkeyAlias value="AIEastGondorBase"/>
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+    </CButton>
+    <CButton id="AIMordorBase">
+        <HotkeyAlias value="AIEastGondorBase"/>
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+    </CButton>
+    <CButton id="AIDwarvesBase">
+        <HotkeyAlias value="AIEastGondorBase"/>
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+    </CButton>
+    <CButton id="AiEasterlingsBase">
+        <HotkeyAlias value="AIEastGondorBase"/>
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+    </CButton>
+    <CButton id="AIMistyMountainsBase">
+        <HotkeyAlias value="AIEastGondorBase"/>
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+    </CButton>
+    <CButton id="ActivateBeacon">
+        <Icon value="Assets\Textures\ghostbeacon.dds"/>
+    </CButton>
+    <CButton id="AiWestGondor2">
+        <Icon value="Assets\Textures\aicommand_autoai1.dds"/>
+        <HotkeyAlias value="AIEastGondorBase"/>
+    </CButton>
+    <CButton id="AlarakForkedLightning">
+        <Icon value="Assets\Textures\ui_tipicon_campaign_zerus03-zurvanlightning.dds"/>
+    </CButton>
+    <CButton id="AmonLancUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AmonLancUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AnduinCampUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AnduinCampUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AnorienUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AnorienUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ArchonHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-archon.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-archon.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="ArchonHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-archon.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-archon.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="ArtanisBlinkStrikeAiur02"/>
+    <CButton id="AshWormBurrowMove2">
+        <Icon value="Assets\Textures\btn-ability-zerg-deeptunnel.dds"/>
+        <AlertIcon value="Assets\Textures\btn-missing-kaeo.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CButton>
+    <CButton id="Attack10">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack10"/>
+    </CButton>
+    <CButton id="Attack11">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack11"/>
+    </CButton>
+    <CButton id="Attack12">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack12"/>
+    </CButton>
+    <CButton id="Attack13">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack13"/>
+    </CButton>
+    <CButton id="Attack14">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack14"/>
+    </CButton>
+    <CButton id="Attack15">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack15"/>
+    </CButton>
+    <CButton id="Attack16">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack16"/>
+    </CButton>
+    <CButton id="Attack5">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack5"/>
+    </CButton>
+    <CButton id="Attack6">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack6"/>
+    </CButton>
+    <CButton id="Attack7">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack7"/>
+    </CButton>
+    <CButton id="Attack8">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack8"/>
+    </CButton>
+    <CButton id="Attack9">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack9"/>
+    </CButton>
+    <CButton id="AttackBuilding3">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <HotkeyAlias value="Attack"/>
+        <SimpleDisplayText value="SimpleDisplay/AttackBuilding3"/>
+    </CButton>
+    <CButton id="AttackGhost2">
+        <Name value="Button/Name/Attack"/>
+        <Tooltip value="Button/Tooltip/Attack"/>
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertName value="Button/Name/Attack"/>
+        <AlertTooltip value="Button/Tooltip/Attack"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <Hotkey value="Button/Hotkey/Attack"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <HotkeyAlias value="Attack"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack"/>
+        <HidesForSimpleText value="0"/>
+    </CButton>
+    <CButton id="AutoTurret"/>
+    <CButton id="ErynVornUpgradeSpawn22">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ErynVornUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ErynVornUpgradeSpawn32">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ErynVornUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ErynVornUpgradeSpawn1">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ForgingOfAnArmy">
+        <Icon value="Assets\Textures\btn-upgrade-zagara-increasebilelauncherrange.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AulesIngenuinity">
+        <Icon value="Assets\Textures\btn-amonshardsarmor.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+        <HotkeyAlias value="StukovRegenAura"/>
+    </CButton>
+    <CButton id="HouseOfHealing">
+        <Icon value="Assets\Textures\btn-ability-zerg-dehaka-ultralisk-healingadaptation.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ErynVornUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RangersOfTheWhiteMountains">
+        <Icon value="Assets\Textures\btn-ability-mengsk-ghost-staticempblast.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ReinforcementsFromHarandor">
+        <Icon value="Assets\Textures\btn-ability-mengsk-royalguard-mightoftheempire.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="TrainArbiter">
+        <Icon value="Assets\Textures\btn-unit-protoss-arbiter.dds"/>
+    </CButton>
+    <CButton id="WavesOfUlmo">
+        <Icon value="Assets\Textures\btn-ability-zerg-transfusion-color.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+        <HotkeyAlias value="StukovRegenAura"/>
+    </CButton>
+    <CButton id="ServantsOfMordor">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-stalkerphasingarmor.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BreeUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BatheInGold2">
+        <Icon value="Assets\Textures\btn-tips-richminerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BatheInGold3">
+        <Icon value="Assets\Textures\btn-tips-richminerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BlackValeUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BlackValeUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BreeUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BreeUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Eldacar2">
+        <Icon value="Assets\Textures\btn-unit-terran-marineraynor.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BeastsOfNurn">
+        <Icon value="Assets\Textures\btn-upgrade-zagara-increasebilelauncherrange.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NobleMuster">
+        <Icon value="Assets\Textures\btn-ability-mengsk-trooper-advancedconstruction.dds"/>
+    </CButton>
+    <CButton id="CrownsBounty">
+        <Icon value="Assets\Textures\btn-ability-stetmann-banelingmanashield.dds"/>
+    </CButton>
+    <CButton id="DispersePower">
+        <Icon value="Assets\Textures\talent-vorazun-level07-improvedshieldregeneration.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ChainReaction"/>
+    <CButton id="DwarvenFriendship">
+        <Icon value="Assets\Textures\btn-progression-mengsk-01-lawandorder.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DevotionToAmdir">
+        <Icon value="Assets\Textures\btn-ability-protoss-feedbackaoe-color.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DevotiontoAmroth">
+        <Icon value="Assets\Textures\btn-ability-protoss-feedbackaoe-color.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ConcealTheHalls">
+        <Icon value="Assets\Textures\btn-building-protoss-shieldbattery.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="KhorakhilTheBlindSorcerer">
+        <Icon value="Assets\Textures\wireframe-protoss-reanimator-mutator.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Genevive">
+        <Icon value="Assets\Textures\btn-unit-terran-ares.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Galadriel">
+        <Icon value="Assets\Textures\btn-unit-zerg-kerriganghost.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EmpowerAdunabethTheQuiet">
+        <Icon value="Assets\Textures\btn-upgrade-nova-novarespawn.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ChiefOfDruwaithgood">
+        <Icon value="Assets\Textures\btn-commander-nova.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NobleAccord">
+        <Icon value="Assets\Textures\btn-ability-protoss-resurgence.dds"/>
+    </CButton>
+    <CButton id="SilvanCombatantTraining">
+        <Icon value="Assets\Textures\btn-ability-hornerhan-reaper-flightmode.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OracleCloakingFieldTargeted">
+        <Icon value="Assets\Textures\btn-ability-protoss-cloakfield-color.dds"/>
+    </CButton>
+    <CButton id="MightOfTulkas">
+        <Icon value="Assets\Textures\btn-upgrade-terran-infantryweaponslevel2.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+        <HotkeyAlias value="StukovRegenAura"/>
+    </CButton>
+    <CButton id="Thranduil">
+        <Icon value="Assets\Textures\wireframe-protoss-selendis-carrier.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SilverlodeUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CorsairEncampment">
+        <Icon value="Assets\Textures\btn-ability-terran-hercules-tacticaljump.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CorsairEncampmentHarlond">
+        <Icon value="Assets\Textures\btn-ability-terran-hercules-tacticaljump.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CorsairEncampmentLefnui">
+        <Icon value="Assets\Textures\btn-ability-terran-hercules-tacticaljump.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CorsairEncampmentPelargir">
+        <Icon value="Assets\Textures\btn-ability-terran-hercules-tacticaljump.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CorsairEncampmentLondDaer">
+        <Icon value="Assets\Textures\btn-ability-terran-hercules-tacticaljump.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Corsairlord">
+        <Icon value="Assets\Textures\btn-ability-terran-hercules-tacticaljump.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CorsairEncampmentUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DorwinionGoodUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DorwinionGoodUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DorwinionGoodUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BatheInGold">
+        <Icon value="Assets\Textures\btn-tips-richminerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EchoesofRhuadur">
+        <Icon value="Assets\Textures\btn-tips-biosample.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GuardiansOfLastBridge">
+        <Icon value="Assets\Textures\btn-ability-protoss-recallondeath.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GreatDragonsVelocity">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-rapidregeneration.dds"/>
+    </CButton>
+    <CButton id="KerriganEpilogue03Heal"/>
+    <CButton id="KerriganEpilogueDamageAura"/>
+    <CButton id="MartimeLegacy">
+        <Icon value="Assets\Textures\btn-progression-hornerhan-3-starportraven.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="HoramuthTheIceKing">
+        <Icon value="Assets\Textures\btn-unit-terran-griffon.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FreePeopleOfDorwinionUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EdhelionUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EdhelionUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FreePeopleOfDorwinionUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FreePeopleOfDorwinionUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MarquilLeaderOfTheNorthmen">
+        <Icon value="Assets\Textures\ui-technology-vulture.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LossarnachUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LossarnachUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LossarnachUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AnorienUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FightForDorwinion">
+        <Icon value="Assets\Textures\btn-ability-mengsk-trooper-volunteertofight.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NomadsResilence">
+        <Icon value="Assets\Textures\btn-tips-counter.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NumenorStonework">
+        <Icon value="Assets\Textures\btn-research-terran-vanadiumplating.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OrcBreeding">
+        <Icon value="Assets\Textures\btn-ability-kerrigan-zerglingreconstitution.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FortifyTheRiverOfAnduin">
+        <Icon value="Assets\Textures\btn-research-zerg-fortifiedbunker.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RedDwarvesEncampmentUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BlueMountainsUpgradeSpawn4zealot">
+        <Icon value="Assets\Textures\btn-ability-stetmann-ultraliskrespawn.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RedDwarvesEncampmentUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RedDwarvesEncampmentUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LordOfIronHills">
+        <Icon value="Assets\Textures\btn-unit-terran-battlecruiserloki.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MistOfTheIceKing">
+        <Icon value="Assets\Textures\btn-ability-alarak-massteleport.dds"/>
+    </CButton>
+    <CButton id="SettleTheDividebetweenBroadbeamsandFirebeards">
+        <Icon value="Assets\Textures\btn-minimap-toggleallies.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BolgLifeLeach">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-tissueassimilation.dds"/>
+    </CButton>
+    <CButton id="BolgEmpowered">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-stukov-apocoliskupgraded_12.dds"/>
+        <HotkeyAlias value="BolgLifeLeach"/>
+    </CButton>
+    <CButton id="BolgSonOfAzog">
+        <Icon value="Assets\Textures\btn-unit-collection-ultralisk-collectoredition.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Cancel2">
+        <Icon value="Assets\Textures\btn-command-cancel.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-cancel.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Cancel3">
+        <Icon value="Assets\Textures\btn-command-cancel.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-cancel.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Cancel4">
+        <Icon value="Assets\Textures\btn-command-cancel.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-cancel.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Cancel5">
+        <Icon value="Assets\Textures\btn-command-cancel.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-cancel.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Cancel6">
+        <Icon value="Assets\Textures\btn-command-cancel.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-cancel.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="CancelBuilding2">
+        <Icon value="Assets\Textures\btn-command-cancel.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-cancel.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <HotkeyAlias value="Cancel"/>
+    </CButton>
+    <CButton id="CancelBuilding3">
+        <Icon value="Assets\Textures\btn-command-cancel.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-cancel.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <HotkeyAlias value="Cancel"/>
+    </CButton>
+    <CButton id="CancelBuilding4">
+        <Icon value="Assets\Textures\btn-command-cancel.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-cancel.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <HotkeyAlias value="Cancel"/>
+    </CButton>
+    <CButton id="CarnDumUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CarnDumUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CarnDumUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DwarvenMight">
+        <Icon value="Assets\Textures\btn-ability-terran-haywiremissile.dds"/>
+    </CButton>
+    <CButton id="HorselordsOfDolAmroth">
+        <Icon value="Assets\Textures\btn-ability-hornerhan-hellion-stim.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DruwaithUpgradeSpawnGood">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DruwaithUpgradeSpawnGood2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DruwaithUpgradeSpawnGood3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AglarondCopper">
+        <Icon value="Assets\Textures\wireframe-protoss-voidcrystal.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AglarondGold">
+        <Icon value="Assets\Textures\ui_emoticons_gminerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AglarondMithril">
+        <Icon value="Assets\Textures\ui_emoticons_minerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AglarondIron">
+        <Icon value="Assets\Textures\wireframe-general-mineralshield.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="PrinceOfDolAmroth">
+        <Tooltip value="PrinceOfDolAmrothUpgrade"/>
+        <Icon value="Assets\Textures\btn-ability-hornerhan-reaper-deaththrows.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MothershipCoreWeapon"/>
+    <CButton id="CorsairEncampmentUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SilverlodeUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SilverlodeUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SouthronEncampmentUpgradeSpawn32">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SouthronEncampmentUpgradeSpawn33">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinorTradingHub">
+        <Icon value="Assets\Textures\btn-tips-credit.dds"/>
+        <HotkeyAlias value="Tradinghub"/>
+    </CButton>
+    <CButton id="Vassalsupport">
+        <Icon value="Assets\Textures\decal_spray_0107_01.dds"/>
+    </CButton>
+    <CButton id="WarlordOfTheSouthrons">
+        <Icon value="Assets\Textures\wireframe-terran-marine-warfield.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SouthronFerocity">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-frenzy.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+        <HotkeyAlias value="StukovRegenAura"/>
+    </CButton>
+    <CButton id="TheCallingOfTheSouth">
+        <Icon value="Assets\Textures\btn-upgrade-karax-unitybarrier.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="TheDivideOfTheBlueMountain">
+        <Icon value="Assets\Textures\btn-ability-hornerhan-raven-analyzetarget.dds"/>
+    </CButton>
+    <CButton id="MajorTradingHub">
+        <Icon value="Assets\Textures\btn-tips-credit.dds"/>
+    </CButton>
+    <CButton id="FortiudeOfManwe">
+        <Icon value="Assets\Textures\btn-upgrade-terran-infantryarmorlevel2.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+        <HotkeyAlias value="StukovRegenAura"/>
+    </CButton>
+    <CButton id="WestMarchUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SuthburgUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EstablishAngmar">
+        <Icon value="Assets\Textures\btn-tips-ripfield.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Cirdan">
+        <Icon value="Assets\Textures\wireframe-protoss-tassadar.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ColossusHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-colossus.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-colossus.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="ColossusHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-colossus.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-colossus.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="DisruptorHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-disruptor.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-disruptor.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="DisruptorHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-disruptor.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-disruptor.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="EmpowerSauron">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-supplicantsacrifice.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FireBlade"/>
+    <CButton id="ForceField2">
+        <Icon value="Assets\Textures\BTN-Ability-protoss-forcefield-color.dds"/>
+        <AlertIcon value="Assets\Textures\BTN-Ability-protoss-forcefield-color.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="ForceField3">
+        <Icon value="Assets\Textures\BTN-Ability-protoss-forcefield-color.dds"/>
+        <AlertIcon value="Assets\Textures\BTN-Ability-protoss-forcefield-color.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="FrozenPlainsUpgradeSpawn32">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FrozenPlainsUpgradeSpawn322">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FrozenPlainsUpgradeSpawn323">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GuardianShield2">
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldbattery-color.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-shieldbattery-color.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="GuardianShield3">
+        <Icon value="Assets\Textures\btn-ability-protoss-shieldbattery-color.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-shieldbattery-color.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="Hallucination2">
+        <Icon value="Assets\Textures\btn-ability-protoss-hallucination-color.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-hallucination-color.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="Hallucination3">
+        <Icon value="Assets\Textures\btn-ability-protoss-hallucination-color.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-protoss-hallucination-color.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="HighArchonPsiStorm"/>
+    <CButton id="HighTemplarHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-hightemplar.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-hightemplar.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="HighTemplarHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-hightemplar.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-hightemplar.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="ImmortalHallucination2">
+        <Icon value="Assets\Textures\BTN-Unit-Protoss-Immortal.dds"/>
+        <AlertIcon value="Assets\Textures\BTN-Unit-Protoss-Immortal.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="ImmortalHallucination3">
+        <Icon value="Assets\Textures\BTN-Unit-Protoss-Immortal.dds"/>
+        <AlertIcon value="Assets\Textures\BTN-Unit-Protoss-Immortal.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="CarnDumUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="KaiserWormBanelingMissile"/>
+    <CButton id="LocustMP"/>
+    <CButton id="RidersOfMountGram">
+        <Icon value="Assets\Textures\btn-progression-zerg-dehaka-8-fireroachimpalerupgradepack.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Move16">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move16"/>
+    </CButton>
+    <CButton id="MoveHoldPosition16">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol16">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="OracleHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-oracle.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-oracle.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="OracleHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-oracle.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-oracle.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="PhoenixHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-phoenix.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-phoenix.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="PhoenixHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-phoenix.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-phoenix.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="ProbeHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-probe.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-probe.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="ProbeHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-probe.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-probe.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="Rally3">
+        <Icon value="Assets\Textures\btn-ability-terran-setrallypoint.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-terran-setrallypoint.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Rally4">
+        <Icon value="Assets\Textures\btn-ability-terran-setrallypoint.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-terran-setrallypoint.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="RhosgobelUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LongLiveTheKing">
+        <Icon value="Assets\Textures\btn-ability-protoss-feedbackaoe-color.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Orophin">
+        <Icon value="Assets\Textures\wireframe-terran-reaper-mercenary.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DOMGhostDetectorConeEnter2">
+        <Icon value="Assets\Textures\alarmlightcone_diffuse.dds"/>
+        <Hotkey value="Button/Hotkey/CloakOnGhost"/>
+        <EditorCategories value="Race:Terran"/>
+        <HotkeyAlias value="CloakOnGhost"/>
+    </CButton>
+    <CButton id="BlackValeUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AnduinCampUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DarkShrineAssignRally2">
+        <Icon value="Assets\Textures\btn-ability-terran-setrallypoint.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-terran-setrallypoint.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="Detector2">
+        <Icon value="Assets\Textures\BTN-Status-Detector.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+    </CButton>
+    <CButton id="EvilLefnuiUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvilLefnuiUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvilLefnuiUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvilLefnuiTransferUnits">
+        <Icon value="Assets\Textures\btn-progression-protoss-fenix-11-championtransferbuff.dds"/>
+    </CButton>
+    <CButton id="CelebrandtUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CelebrandtUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CelebrandtUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Move10">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move10"/>
+    </CButton>
+    <CButton id="Move11">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move11"/>
+    </CButton>
+    <CButton id="Move12">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move12"/>
+    </CButton>
+    <CButton id="Move13">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move13"/>
+    </CButton>
+    <CButton id="MoveHoldPosition10">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MoveHoldPosition11">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MoveHoldPosition12">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MoveHoldPosition13">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol10">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol11">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol12">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol13">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="NukeArm"/>
+    <CButton id="OppressTheDruedain2">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-ascendantspermanentlybetter.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OrganizeTheArmy">
+        <Icon value="Assets\Textures\btn-ability-mengsk-commandcenter-drafttroopers.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Move8">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move8"/>
+    </CButton>
+    <CButton id="Move9">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move9"/>
+    </CButton>
+    <CButton id="MoveHoldPosition8">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MoveHoldPosition9">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol8">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol9">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="NanLaeglinUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvilOrthancTransferUnits">
+        <Icon value="Assets\Textures\btn-progression-protoss-fenix-11-championtransferbuff.dds"/>
+    </CButton>
+    <CButton id="Move6">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move6"/>
+    </CButton>
+    <CButton id="Move7">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move7"/>
+    </CButton>
+    <CButton id="MoveHoldPosition6">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MoveHoldPosition7">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol6">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol7">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="NanLaeglinUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LieutenantOfHoarddale">
+        <Icon value="Assets\Textures\wireframe-zerg-roachex1b.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OrthancUpgradeSpawn22">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OrthancUpgradeSpawn32">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvilOrthancUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ParlaywiththemenofLefnui">
+        <Icon value="Assets\Textures\btn-upgrade-karax-twilightcouncilupgradecache.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Eldacar">
+        <Icon value="Assets\Textures\btn-unit-terran-marineraynor.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CentralizePower">
+        <Icon value="Assets\Textures\talent-vorazun-level09-darkarchonresearchbundle.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Devcheat">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AmonSulUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="AmonsulUpgradeSpawn3"/>
+    </CButton>
+    <CButton id="ErechUpgradeSpawn42">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OathOfErech">
+        <Icon value="Assets\Textures\btn-upgrade-stetmann-zerglinghardenedshield.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MirkwoodUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MirkwoodUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MirkwoodUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MirkwoodUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Move5">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move5"/>
+    </CButton>
+    <CButton id="MoveHoldPosition5">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol5">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="OathOfErech2">
+        <Icon value="Assets\Textures\btn-unit-protoss-karass.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="PlacePsiEmitter2">
+        <Icon value="Assets\Textures\btn-building-terran-sigmaprojector.dds"/>
+        <AlertIcon value="Assets\Textures\btn-building-terran-sigmaprojector.dds"/>
+        <Hotkey value="Button/Hotkey/NukeCalldown"/>
+        <EditorCategories value="Race:Terran"/>
+        <HotkeyAlias value="NukeCalldown"/>
+    </CButton>
+    <CButton id="RaiseUndead"/>
+    <CButton id="Rally2">
+        <Icon value="Assets\Textures\btn-ability-terran-setrallypoint.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-terran-setrallypoint.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="RallyEasterlings2">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-supplicantarmor.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RallyEasterlings3">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-supplicantarmor.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RallyEasterlings32">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-supplicantarmor.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ReconileWithTheDruedain">
+        <Icon value="Assets\Textures\btn-upgrade-karax-twilightcouncilupgradecache.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OppressTheDruedain">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-ascendantspermanentlybetter.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RallyTheEasterlings">
+        <Icon value="Assets\Textures\btn-ability-protoss-mindcontrol.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RallyEasterlings">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-supplicantarmor.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ReconileWithTheDruedain2">
+        <Icon value="Assets\Textures\btn-upgrade-karax-twilightcouncilupgradecache.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhosgobelUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhosgobelUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhosgobelUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SOAWarpInReinforcements">
+        <!--TooltipAppender Validator="HaveZealotBase" Text="Button/TooltipAppender/SOAWarpInReinforcementsZealot"/>
+        <TooltipAppender Validator="HaveVoidZealotWhirlwind" Text="Button/TooltipAppender/SOAWarpInReinforcementsZealotA"/>
+        <TooltipAppender Validator="HaveVoidZealotShadowCharge" Text="Button/TooltipAppender/SOAWarpInReinforcementsZealotB"/>
+        <TooltipAppender Validator="HaveVoidZealotSuperShield" Text="Button/TooltipAppender/SOAWarpInReinforcementsZealotC"/>
+        <TooltipAppender Validator="HaveStalkerBase" Text="Button/TooltipAppender/SOAWarpInReinforcementsStalker"/>
+        <TooltipAppender Validator="HaveVoidStalkerDragoon" Text="Button/TooltipAppender/SOAWarpInReinforcementsStalkerA"/>
+        <TooltipAppender Validator="HaveVoidStalkerAssaultBlink" Text="Button/TooltipAppender/SOAWarpInReinforcementsStalkerB"/>
+        <TooltipAppender Validator="HaveVoidStalkerBlinkShieldRestore" Text="Button/TooltipAppender/SOAWarpInReinforcementsStalkerC"/-->
+    </CButton>
+    <CButton id="SuthburgUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SuthburgUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AglarondUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="VileServitude">
+        <Icon value="Assets\Textures\btn-ability-kerrigan-zerglingreconstitution.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SliceOfCorruption">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-empoweraoeattacks.dds"/>
+    </CButton>
+    <CButton id="SingleRecall"/>
+    <CButton id="SporeCrawlerUproot2">
+        <Icon value="Assets\Textures\btn-ability-zerg-uproot-color.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-zerg-uproot-color.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CButton>
+    <CButton id="StalkerHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-stalker.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-stalker.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="StalkerHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-stalker.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-stalker.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="Stop10">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop11">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop12">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop13">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop14">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop15">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop16">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop17">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop18">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop19">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop9">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="EmpowerWitchKing">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-dashrange&amp;cdr.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="TearMorgomirAsunder">
+        <Icon value="Assets\Textures\btn-upgrade-protoss-alarak-stunnonheroicenemies.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SummonMorgomir">
+        <Icon value="Assets\Textures\wireframe-hybrid-viper.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Stop6">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop7">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop8">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="SummonUvartheTheBlackHorseman">
+        <Icon value="Assets\Textures\btn-unit-protoss-alarak-taldarim-voidray-collection.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="TheNecromancer">
+        <Icon value="Assets\Textures\btn-upgrade-zerg-stukov-infestedciviliansleap.dds"/>
+    </CButton>
+    <CButton id="ValandilsInsanity">
+        <Icon value="Assets\Textures\btn-ability-protoss-confusion.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ForifyOuterHoldingLastBridge">
+        <Icon value="Assets\Textures\btn-research-zerg-fortifiedbunker.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ForifyOuterHoldingTharbad">
+        <Icon value="Assets\Textures\btn-research-zerg-fortifiedbunker.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ForifyOuterHolding4">
+        <Icon value="Assets\Textures\btn-research-zerg-fortifiedbunker.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ForifyOuterHoldingLondDaer">
+        <Icon value="Assets\Textures\btn-research-zerg-fortifiedbunker.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LifeSteal">
+        <Icon value="Assets\Textures\btn-ability-zerg-genemutation-lifeleech.dds"/>
+    </CButton>
+    <CButton id="RetreatOuterHoldingMinhiarth">
+        <Icon value="Assets\Textures\command_retreat_ac.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GardenOfEntwivesUpgradeSpawn22">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GuerillaWarfare">
+        <Icon value="Assets\Textures\btn-progression-hornerhan-4-reaperwidowmineupgrades.dds"/>
+        <HotkeyAlias value="AmonsulUpgradeSpawn3"/>
+    </CButton>
+    <CButton id="AnfalasUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Attack3">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack3"/>
+    </CButton>
+    <CButton id="Attack4">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack4"/>
+    </CButton>
+    <CButton id="AttackBuilding2">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <HotkeyAlias value="Attack"/>
+        <SimpleDisplayText value="SimpleDisplay/AttackBuilding2"/>
+    </CButton>
+    <CButton id="EastBightUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DigesterCreepSpray2">
+        <Icon value="Assets\Textures\btn-ability-zerg-generatecreep-color.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-zerg-generatecreep-color.dds"/>
+        <EditorCategories value="Race:Zerg"/>
+    </CButton>
+    <CButton id="DolGuldurUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EastBightUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EastBightUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ErectthefortressofDulGuldur">
+        <Icon value="Assets\Textures\ui_aoestretchline_zerg_start.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GladdenCampUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvilMinhiarthUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Attack2">
+        <Icon value="Assets\Textures\btn-command-attack.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-attack.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Attack2"/>
+    </CButton>
+    <CButton id="DurinTheFifth">
+        <Icon value="Assets\Textures\ui-technology-marauder.dds"/>
+    </CButton>
+    <CButton id="EvilMinhiarthUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvilMinhiarthUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvilRhuadurUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvilRhuadurUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GladdenCampUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GladdenCampUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LastbridgeUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LondDaerUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MigrateFromDorwinion">
+        <Icon value="Assets\Textures\command_retreat_ac.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LibnirUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LibnirUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LitashUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ForlondUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FormAcolation">
+        <Tooltip value="Button/Tooltip/FormAcoalition"/>
+        <Icon value="Assets\Textures\btn-ability-spearofadun-massrecall.dds"/>
+        <AlertIcon value="Assets\Textures\btn-ability-spearofadun-massrecall.dds"/>
+    </CButton>
+    <CButton id="GilGiladLifeSteal">
+        <Icon value="Assets\Textures\btn-progression-stetmann-03-stetelliteovercharge.dds"/>
+    </CButton>
+    <CButton id="GuerillaFighter">
+        <Icon value="Assets\Textures\btn-upgrade-swann-multilockweaponsystem.dds"/>
+    </CButton>
+    <CButton id="HarlondUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="HarlondUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ForlondUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="InspireTheElvesOfHarlond">
+        <Icon value="Assets\Textures\btn-ability-protoss-voidarmor.dds"/>
+    </CButton>
+    <CButton id="IronHillsCopper">
+        <Icon value="Assets\Textures\wireframe-protoss-voidcrystal.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EreborCopper">
+        <Icon value="Assets\Textures\wireframe-protoss-voidcrystal.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BuzraDumCopper">
+        <Icon value="Assets\Textures\wireframe-protoss-voidcrystal.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="IronHillsGold">
+        <Icon value="Assets\Textures\ui_emoticons_gminerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EreborGold">
+        <Icon value="Assets\Textures\ui_emoticons_gminerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BuzraDumGold">
+        <Icon value="Assets\Textures\ui_emoticons_gminerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="IronhillsIron">
+        <Icon value="Assets\Textures\wireframe-general-mineralshield.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EreborIron">
+        <Icon value="Assets\Textures\wireframe-general-mineralshield.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BuzraDumIron">
+        <Icon value="Assets\Textures\wireframe-general-mineralshield.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="IronHillsMithril">
+        <Icon value="Assets\Textures\ui_emoticons_minerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EreborMithril">
+        <Icon value="Assets\Textures\ui_emoticons_minerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BuzraDumMithril">
+        <Icon value="Assets\Textures\ui_emoticons_minerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BuzraDumUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BuzraDumUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BuzraDumUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BlueMountainsCopper">
+        <Icon value="Assets\Textures\wireframe-protoss-voidcrystal.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="KhazaDumGold">
+        <Icon value="Assets\Textures\ui_emoticons_gminerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BlueMountainsGold">
+        <Icon value="Assets\Textures\ui_emoticons_gminerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="KhazaDumIron">
+        <Icon value="Assets\Textures\wireframe-general-mineralshield.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="KhazaDumCopper">
+        <Icon value="Assets\Textures\wireframe-protoss-voidcrystal.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BlueMountainsIron">
+        <Icon value="Assets\Textures\wireframe-general-mineralshield.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="KhazaDumMithril">
+        <Icon value="Assets\Textures\ui_emoticons_minerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BlueMountainsMithril">
+        <Icon value="Assets\Textures\ui_emoticons_minerals.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LitashUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LitashUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LitashUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvilRhuadurUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OuterRhuadurUpgradeSpawn22">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ForifyOuterHolding">
+        <Icon value="Assets\Textures\btn-research-zerg-fortifiedbunker.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="PelargirUpgradeSpawn32">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BuildUpTheFleet">
+        <Icon value="Assets\Textures\btn-ability-hornerhan-battlecruiser-laser.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LibnirUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CorsairInvasion">
+        <Icon value="Assets\Textures\btn-progression-hornerhan-7-wraithvikingupgrades.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RetreatOuterHoldingLastBridge">
+        <Icon value="Assets\Textures\command_retreat_ac.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RetreatOuterHoldingLondDaer">
+        <Icon value="Assets\Textures\command_retreat_ac.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RetreatOuterHoldingOuterRhuadur">
+        <Icon value="Assets\Textures\command_retreat_ac.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RetreatOuterHoldingTharbad">
+        <Icon value="Assets\Textures\command_retreat_ac.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Stop3">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop4">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Stop5">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="TharbadUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="TolfalasUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="TolfalasUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="PrepareToflee">
+        <Icon value="Assets\Textures\btn-ability-purifier-download2.dds"/>
+    </CButton>
+    <CButton id="SearchForTheRelicsOfBuzraDum">
+        <Icon value="Assets\Textures\btn-ability-zerg-slivan-disablingcloud.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DolAmrothUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DolAmrothUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DolAmrothUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DolAmrothUpgradeSpawn5">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Move2">
+        <Icon value="Assets\Textures\btn-command-move.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-move.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+        <SimpleDisplayText value="SimpleDisplay/Move2"/>
+    </CButton>
+    <CButton id="MoveHoldPosition2">
+        <Icon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-holdposition.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="MovePatrol2">
+        <Icon value="Assets\Textures\btn-command-patrol.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-patrol.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="OrthancUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ErechUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ErechUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ErechUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DolAmrothUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OrthancUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OrthancUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OrthancUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="PinnathGaelinUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DruwaithUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DruwaithUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DruwaithUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DunharrowUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DunharrowUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DunlandUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DunlandUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DunharrowUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="HoarddaleUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="HoarddaleUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="HoarddaleUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DruwaithUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LefnuiUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LefnuiUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AnfalasUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="PinnathGaelinUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="PinnathGaelinUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ErechUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Stop2">
+        <Icon value="Assets\Textures\btn-command-stop.dds"/>
+        <AlertIcon value="Assets\Textures\btn-command-stop.dds"/>
+        <EditorCategories value="Race:Neutral"/>
+        <TintRacially value="1"/>
+        <Universal value="1"/>
+    </CButton>
+    <CButton id="Tradinghub">
+        <Icon value="Assets\Textures\btn-tips-credit.dds"/>
+    </CButton>
+    <CButton id="TrollshawsUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GardenOfEntwivesUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AmonsulUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+    </CButton>
+    <CButton id="AmonsulUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+    </CButton>
+    <CButton id="AnnuminasUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AnnuminasUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AnnuminasUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BarrowDownsUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BarrowDownsUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AnnuminasUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BlueMountainsUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BlueMountainsUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SideWithTheBroadbeams">
+        <Icon value="Assets\Textures\btn-unit-terran-reaperblackops.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DaleUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DaleUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DaleUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EreborUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EreborUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EreborUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EttenmoorsUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EttenmoorsUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FrozenPlainsUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FrozenPlainsUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FrozenPlainsUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Fimbretihil">
+        <Icon value="Assets\Textures\btn-ability-protoss-confusion.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GreenwoodHallsUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GreenwoodHallsUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="HarlondUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GreenwoodUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GreenwoodUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GreenwoodUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LothorienUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LothorienUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LothorienUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LothorienUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MithlondUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MithlondUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MithlondUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MithlondUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AmonLancUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MountGramUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvendimUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvendimUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BarrowDownsUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FornostUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BaradDurUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BaradDurUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BaradDurUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BaradDurUpgradeSpawn5">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BaradDurUpgradeSpawn6">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FornostUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="FornostUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EvendimUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GoblintownUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GoblintownUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EttenmoorsUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="IronHillsUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="IronHillsUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="IronHillsUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BlueMountainsUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="KhazaDumUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="KhazaDumUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="KhazaDumUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="IronHillsUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinhiarthUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinhiarthUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="AmonsulUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+    </CButton>
+    <CButton id="MountGramUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MountGramUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MountGundabadUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MountGundabadUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MountGundabadUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MountGundabadUpgradeSpawn5">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NorthEnedwaithUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DunlandUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NotImplemented">
+        <Icon value="Assets\Textures\ui_aoestretchline_zerg_end.dds"/>
+    </CButton>
+    <CButton id="GreenwoodUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SouthEnedwaithUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SouthEnedwaithUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NorthEnedwaithUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SouthEnedwaithUpgradeSpawn23">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="TrollshawsUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="TrollshawsUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="HoarddaleUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LefnuiUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BuzraDumUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DolGuldurUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Underdeveloped">
+        <Icon value="Assets\Textures\btn-upgrade-stetmann-hatcherystetellitebonus.dds"/>
+    </CButton>
+    <CButton id="Emerging">
+        <Icon value="Assets\Textures\btn-upgrade-stetmann-hivestetellitebonus.dds"/>
+    </CButton>
+    <CButton id="Underdeveloped2">
+        <Icon value="Assets\Textures\btn-upgrade-stetmann-hatcherystetellitebonus.dds"/>
+    </CButton>
+    <CButton id="BroggauCaptainOfRaiders">
+        <Icon value="Assets\Textures\wireframe-terran-banshee-mercenary.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="VoidRayHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-warpray.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-warpray.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="VoidRayHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-warpray.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-warpray.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="VoidSentryShieldRepair2">
+        <Icon value="Assets\Textures\BTN-Ability-Protoss-ShieldRecharge.dds"/>
+        <AlertIcon value="Assets\Textures\BTN-Ability-Protoss-ShieldRecharge.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="VoidSentryShieldRepair3">
+        <Icon value="Assets\Textures\BTN-Ability-Protoss-ShieldRecharge.dds"/>
+        <AlertIcon value="Assets\Textures\BTN-Ability-Protoss-ShieldRecharge.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="WarpPrismHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-warpprism.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-warpprism.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="WarpPrismHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-warpprism.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-warpprism.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="WestMarchUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="WestMarchUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="WitheredheathUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OuterRhuadurUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LondDaerUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CarnenUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CarnenUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LondDaerUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LastbridgeUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OuterRhuadurUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="TharbadUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhovanionUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DorwinionUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DorwinionUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DorwinionUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EsgarothUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EsgarothUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="EsgarothUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CarnenUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhovanionUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhovanionUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhovanionUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SouthronEncampmentUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhunUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CirthNurnUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CirthNurnUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="CirthNurnUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinasMorgulUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DorEnErnilUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DorEnErnilUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DorEnErnilUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LamedonUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LamedonUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LamedonUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="LamedonUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinasMorgulUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinasMorgulUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinasMorgulUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NurnUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NurnUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NurnUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhunUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhunUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhunUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="RhunUpgradeSpawn5">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SouthronEncampmentUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="SouthronEncampmentUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="TharbadUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinhiarthUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="UdunUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BonesHeal"/>
+    <CButton id="Fireball">
+        <Icon value="Assets\Textures\ui_tipicon_campaign_zerus03-yagdrafireball.dds"/>
+    </CButton>
+    <CButton id="MinasAnorUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinasAnorUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinasAnorUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinasAnorUpgradeSpawn5">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinasAnorUpgradeSpawn6">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="BaradDurUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="PelargirUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OsgiliathUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OsgiliathUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MinasAnorUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="OsgiliathUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="PelargirUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="PelargirUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="UdunUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="UdunUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="UdunUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="DorEnErnilUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="NurnUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="KhazaDumUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="MountGundabadUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="UnknownButton">
+        <Icon value="Assets\Textures\btn-upgrade-vorazun-shadowdash.dds"/>
+    </CButton>
+    <CButton id="UpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+    </CButton>
+    <CButton id="OsgiliathUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="WitheredheathUpgradeSpawn2">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="WitheredheathUpgradeSpawn3">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="WitheredheathUpgradeSpawn4">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="GoblintownUpgradeSpawn">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_scroll.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Scathaspawncycle">
+        <Icon value="Assets\Textures\ui_aoestretchline_terran_mid.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="Scorba">
+        <Icon value="Assets\Textures\btn-unit-zerg-devourerex3.dds"/>
+        <HotkeyAlias value="UpgradeSpawn"/>
+    </CButton>
+    <CButton id="ZealotHallucination2">
+        <Icon value="Assets\Textures\btn-unit-protoss-zealot.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-zealot.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+    <CButton id="ZealotHallucination3">
+        <Icon value="Assets\Textures\btn-unit-protoss-zealot.dds"/>
+        <AlertIcon value="Assets\Textures\btn-unit-protoss-zealot.dds"/>
+        <EditorCategories value="Race:Protoss"/>
+    </CButton>
+</Catalog>
